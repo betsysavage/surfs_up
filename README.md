@@ -5,9 +5,11 @@ The purpose of this analysis is to provide potential investors of a Hawaii-based
 
 ## Results:
 The table below displays the summary statistics of the observed temperatures for the month of June:
+
 <img width="168" alt="image" src="https://user-images.githubusercontent.com/114873837/212202563-e87bfd73-f8fd-4092-810a-4240a7ed9518.png">
 
 The table below displays the summary statistics of the observed temperatures for the month of December:
+
 <img width="147" alt="image" src="https://user-images.githubusercontent.com/114873837/212202674-a38c75fd-2489-486c-91ce-2a49764f1b0a.png">
 
 From these summary statistics tables, we can see a few differences in weather between June and December, including:
