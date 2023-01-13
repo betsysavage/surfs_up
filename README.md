@@ -1,7 +1,7 @@
 # Surfs Up Analysis
 
 ## Overview of the statistical analysis:
-The purpose of this analysis is to provide potential investors of a Hawaii-based "surf-and-shake" shop with additional information about weather trends that could impact the popularity of the business throughout the year.
+The purpose of this analysis is to provide potential investors of a Hawaii-based "surf-and-shake" shop with additional information about weather trends that could impact the popularity of the business throughout the year. The ultimate goal of this analysis is to determine whether a shop would be sustainable year-round.
 
 ## Results:
 The table below displays the summary statistics of the observed temperatures for the month of June:
@@ -19,7 +19,7 @@ From these summary statistics tables, we can see a few differences in weather be
 
 ## Summary:
 
-Despite the wider range of temperatures that may be experienced in December, including temperatures on the coolest end of the range (in the 50s), Hawaii's mild year-round temperatures and relative warmth in comparison to the mainland makes it a popular vacation spot for those seeking refuge from the cold - The "surf-and-shake" shop would be well-positioned to capitalize on these trends. In order to optimize the location of the stand, I would recommend further exploration into the following data:
+Despite the slightly wider range of temperatures that may be experienced in December, including temperatures on the coolest end of the range (in the 50s), Hawaii's mild year-round temperatures and relative warmth in comparison to the mainland makes it a popular vacation spot for those seeking refuge from the cold - The "surf-and-shake" shop would be well-positioned to capitalize on these trends in a way that would be sustainable year-round. In order to optimize the location of the stand, I would recommend further exploration into the following data:
 
 1.) While temperature observations can give us a good sense of ice cream sales and general popularity of outdoor activities, there are other weather-related factors that may impact behavior of surfers specifically. I would run this same analysis replacing temperature observations with wind speeds, or even incidents of winter storms within a certain mile radius, both of which would impact the types of waves that may provide favorable surfing conditions.
 2.) While the summary statistics table provides a general overview of major trends between the summer and winter months, it may be helpful to break the monthly data down further into increments like days or weeks, so we can get a better sense of how the weather may shift as the month progresses. For example, is the last week of June much hotter than the first week, which may forecast an uptick in ice cream sales? This would be helpful information to know for purposes of planning inventory orders and staffing. 
